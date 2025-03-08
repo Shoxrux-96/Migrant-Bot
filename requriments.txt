@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+sqlite3
+requests
+pandas
+openpyxl
+json
+
+Loyiha Tuzilishi
+📂 telegram-bot/
+┣ 📄 bot.py - Asosiy bot kodi (hamma narsa shu faylda bo‘ladi)
+┣ 📄 database.py - Ma'lumotlar bazasi
